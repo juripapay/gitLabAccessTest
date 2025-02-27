@@ -1,16 +1,4 @@
 # AI for Science Benchmarks
-- [1. Synopsis](#1-synopsis)
-- [2. Benchmark Suite](#2-benchmark-suite)
-  * [2.1 Organisation](#21-organisation)
-  * [2.2 Features](#22-features)
-  * [2.3 Benchmarks and Datasets](#23-benchmarks-and-datasets)
-- [3. Installation and Usage](#3-installation-and-usage)
-- [4. Publications](#4-publications)
-- [5. Acknowledgments](#5-acknowledgments)
-
-
-
-# 1. AI for Science Benchmarks 
 
 **Name:** AI for Science Benchmarks  
 **DOI:** [https://doi.org/ai4sciencebenchmarks](https://doi.org/ai4sciencebenchmarks)  
